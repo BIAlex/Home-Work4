@@ -57,11 +57,18 @@ p     {
 	 margin:0 0 0 10px;
      border:1px #E459EF solid;
     }
+#center_content{
+    width:950px;
+	height:auto;
+	clear:both;
+	padding-top:0;
+	 background:url(images/center_bg.gif) no-repeat top center;
+	 }
 .menu {
        clear:both;
-       height:23px;
+       height:40px;
        padding:10px 0 0 30px;
-}
+	  	  }
 .menu a {
         padding-right:18px;
         text-decoration:none;
@@ -74,13 +81,6 @@ p     {
       color:#E459EF;
       text-decoration:none:
 	  } 
-#center_content{
-    width:950px;
-	height:auto;
-	clear:both;
-	padding-top:0;
-    background:url (images/center_bg.gif) no-repeat top center;
-}
 .left_content{ 	
 	width:400px;
 	float:left;
